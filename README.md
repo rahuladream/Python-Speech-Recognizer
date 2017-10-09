@@ -5,7 +5,7 @@ Speech recognition is the process of converting spoken words to text. Python sup
 Read more at 
 https://pypi.python.org/pypi/SpeechRecognition/
 
-#Installation
+# Installation
 pip install SpeechRecognition
 
 The SpeechRecognition module depends on pyaudio, you can install them from your package manager.
